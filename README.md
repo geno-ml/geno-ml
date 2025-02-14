@@ -27,7 +27,7 @@
 
 <br clear="both">
 
-<h5 align="right">I specialize in Roblox 3rd "cheats", penetration testing, etc. discord.gg/horizonrblx is my main current project (NOT AS DEV!!)</h5>
+<h5 align="right">I specialize in Roblox 3rd "cheats", penetration testing, etc. </h5>
 
 ###
 
